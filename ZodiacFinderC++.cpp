@@ -1,6 +1,6 @@
-// Course: CSC 236 Data Structures
+// 
    // Name: Tirtha Subedi
-   // Assignment 19: This program going to calculate Age and find their zodic.
+   // This program going to calculate Age and find their zodic.
    /*
       Purpose: I have always wonder about my zodiac so I'm writing a program to help find any user zodiac.
    */
