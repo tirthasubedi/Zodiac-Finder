@@ -1,8 +1,8 @@
-#Author Ram Bastola & Tirtha Subedi
+#Author Tirtha Subedi
 
 import turtle
 
-#This program is the enhance of A19 in python
+#
 #This program will help you find you astrogical or zodiac sign when you Enter your date of birth
 
 
